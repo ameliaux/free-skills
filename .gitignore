@@ -1,0 +1,5 @@
+# Never commit real, personal config, only example configs
+**/config.md
+**/profiles/*
+!**/profiles/example.md
+.DS_Store
